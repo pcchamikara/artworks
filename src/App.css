@@ -31,6 +31,19 @@ li.nav-item.active a{
 }
 
 
+li.nav-item.active a{
+  border-color: #56b6ab !important;
+}
+
+.art_block .card{
+  border-radius: 0px;
+  transition: 0.8s;
+}
+
+.art_block .card:hover{
+  border-bottom: 1px solid #56b6ab;
+}
+
 .atBreadCrumb{
 background: #282c34;
 color: aliceblue;
