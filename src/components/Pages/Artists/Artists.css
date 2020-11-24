@@ -1,0 +1,19 @@
+.at_img{
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .art_block{
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .at_img{
+        height: 220px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+    }
+  }

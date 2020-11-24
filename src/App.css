@@ -1,11 +1,30 @@
+a{
+  text-decoration: none !important;
+}
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html{
+  background: #282c34
 }
+div .bg-dark{
+  background-color: #000 !important;
+}
+.at_canvase{
+  height: 100%;
+}
+
+.atBreadCrumb{
+background: #282c34;
+color: aliceblue;
+font-size: 22px;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 20px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
