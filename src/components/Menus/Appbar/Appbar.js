@@ -21,17 +21,23 @@ export default function Appbar() {
   return (
     <div >  
      
-        <nav class="navbar  navbar-dark d-flex bg-dark justify-content-center pt-4 pb-4">
-         
-          <div class=" d-flex" id="navbarNav">
-            <ul class="navbar-nav d-flex flex-row">
-              <li class="nav-item active ml-2 mr-2">
+        <nav className="navbar  navbar-dark d-flex bg-dark justify-content-center pt-4 pb-4">
+          
+        <Link className="navbar-brand" to="/">
+          <img src="logoblack-alta.jpg" width="80"  className="d-inline-block align-top" alt=""/>
+          
+        </Link>
+
+
+          <div className=" d-flex" id="navbarNav">
+            <ul className="navbar-nav d-flex flex-row">
+              <li className="nav-item active ml-2 mr-2">
                 <Link to="/" className="nav-link">Atrists</Link>
               </li>
-              <li class="nav-item ml-2 mr-2">
+              <li className="nav-item ml-2 mr-2">
                 <Link to="/albums" className="nav-link">Albums</Link>
               </li>
-              <li class="nav-item ml-2 mr-2">
+              <li className="nav-item ml-2 mr-2">
                 <Link to="/shows" className="nav-link">Shows</Link>
               </li>
             </ul>
