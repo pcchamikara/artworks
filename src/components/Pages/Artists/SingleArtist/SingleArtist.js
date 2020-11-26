@@ -1,6 +1,7 @@
 import React, {useContext, useEffect, useState } from 'react'
 import {MainContext} from '../../../../contex/MainContext';
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom';
+import { MdEmail } from 'react-icons/md';
 
 
 export default function SingleArtist() {
@@ -20,7 +21,8 @@ export default function SingleArtist() {
      }
     return (
         <div className="col-12">
-    <div className="atBreadCrumb row">Artists / {Artist.artistName}</div>
+    <div className="atBreadCrumb row"><span className="mr-3">Artists / {Artist.artistName}</span><span><MdEmail /></span></div>
+    
         <div className="row bg-dark p-2">
             
             {
@@ -38,6 +40,7 @@ export default function SingleArtist() {
                                 <h5 className="card-title text-uppercase">{Art.artTitle}</h5>
                                 </div>
                             </div>
+
                         </Link>
                         
 
