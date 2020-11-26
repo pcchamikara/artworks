@@ -17,11 +17,12 @@ div .bg-dark{
 }
 
 a.nav-link {
-  border-bottom: 1px solid;
+
 }
 
 a.nav-link.active {
-  border-color: 1px solid #56b6ab;
+  
+  border-bottom: 1px solid #56b6ab;
 }
 
 small.text-muted{

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar,Nav,NavDropdown,Form,FormControl,Button } from 'react-bootstrap'
-import { Link } from "react-router-dom";
+import { Link , NavLink } from "react-router-dom";
 
 import {
   BrowserRouter as Router,
@@ -23,27 +23,27 @@ export default function Appbar() {
      
         <nav className="navbar  navbar-dark d-flex bg-dark justify-content-center pt-4 pb-4">
           
-        <Link className="navbar-brand" to="/">
-          <img src="logoblack-alta.jpg" width="80"  className="d-inline-block align-top" alt=""/>
+        <NavLink className="navbar-brand" to="/">
+          <img src="./logoblack-alta.jpg" width="80"  className="d-inline-block align-top" alt=""/>
           
-        </Link>
+        </NavLink>
 
 
           <div className=" d-flex" id="navbarNav">
             <ul className="navbar-nav d-flex flex-row">
-              <li className="nav-item active ml-2 mr-2">
-                <Link to="/" className="nav-link">Atrists</Link>
+              <li className="nav-item  ml-2 mr-2">
+                <NavLink exact={true} activeClassName='active'  to="/" className="nav-link">Atrists</NavLink >
               </li>
               <li className="nav-item ml-2 mr-2">
-                <Link to="/albums" className="nav-link">Albums</Link>
+                <NavLink  to="/albums" className="nav-link">Albums</NavLink >
               </li>
               <li className="nav-item ml-2 mr-2">
-                <Link to="/shows" className="nav-link">Shows</Link>
+                <NavLink  to="/shows" className="nav-link">Shows</NavLink >
               </li>
             </ul>
           </div>
         </nav>
-
+        
         <Switch>
             <Route exact path="/">
                 <Artists />
