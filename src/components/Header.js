@@ -1,0 +1,35 @@
+import React, { useState } from "react";
+import HeaderName from "./HeaderName";
+import { Link , NavLink } from "react-router-dom";
+import Logo from './Logo';
+
+
+export default function Header() {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggle = () => setIsOpen(!isOpen);
+
+  const responsive = isOpen && "resStyle";
+  const Brand = isOpen && "show";
+
+  return (
+    <div>
+         <nav className="navbar  navbar-dark d-flex bg-dark justify-content-center pt-2 pb-2">
+       <Logo/>
+         <ul className="navbar-nav d-flex flex-row">
+            <li className="nav-item  ml-2 mr-2">
+                <NavLink exact={true} activeClassName='active'  to="/" className="nav-link">Atrists</NavLink >
+              </li>
+              <li className="nav-item ml-2 mr-2">
+                <NavLink  to="/albums" className="nav-link">Albums</NavLink >
+              </li>
+              <li className="nav-item ml-2 mr-2">
+                <NavLink  to="/shows" className="nav-link">Shows</NavLink >
+              </li>
+            </ul>  
+         </nav>
+        
+      
+    </div>
+  );
+}
