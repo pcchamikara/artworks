@@ -10,26 +10,60 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://cdn.pixabay.com/photo/2019/01/09/14/13/leaves-3923413__340.jpg',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Sun and world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://cdn.pixabay.com/photo/2019/04/21/21/29/pattern-4145023__340.jpg',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'meas',
                   },
                   {
                      artId: 4,
                      artImg: 'https://cdn.pixabay.com/photo/2014/10/04/17/27/glass-473758__340.jpg',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'bees',
+                  }
+               ],
+               shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
                   }
                ]
             },
@@ -44,26 +78,60 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1551547600-8d30c2559da8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://cdn.pixabay.com/photo/2018/07/18/15/43/animal-3546613__340.jpg',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://cdn.pixabay.com/photo/2017/04/06/19/37/sculpture-2209152_960_720.jpg',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 4,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
+                  }
+               ],
+               shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
                   }
                ]
              },
@@ -78,26 +146,60 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 4,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
+                  }
+               ],
+               shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
                   }
                ]
              },
@@ -112,26 +214,60 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 4,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
+                  }
+               ],
+               shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
                   }
                ]
              },
@@ -146,26 +282,59 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 4,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
+                  }
+               ],shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
                   }
                ]
              },
@@ -180,26 +349,60 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 4,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
+                  }
+               ],
+               shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
                   }
                ]
             },
@@ -214,28 +417,62 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 4,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   }
+               ],shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
+                  }
                ]
+               
             },
             {
                artistId: 8,
@@ -248,26 +485,60 @@
                   {
                      artId: 1,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 2,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 3,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
                   },
                   {
                      artId: 4,
                      artImg: 'https://images.unsplash.com/photo-1544409527-b0bbb5ab0013?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80',
-                     artDescription: 'asd asdsadsadasd asd asd asdsadasd',
+                     artDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     artMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
                      artTitle: 'Hellow world',
+                  }
+               ],
+               shows: [
+                  {
+                     showId: 1,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 1',
+                  },
+                  {
+                     showId: 2,
+                     showImg: 'https://cdn.pixabay.com/photo/2017/07/15/15/50/fantasy-2506830_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 2',
+                  },
+                  {
+                     showId: 3,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'Show 3',
+                  },
+                  {
+                     showId: 4,
+                     showImg: 'https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg',
+                     showDescription: '<p>of type and scramblctronic typesetting, remaining essentially unchanged</p><p>. It was popularised in the 1960s with the release of Letraset <p><p>18 x 15 in - 48.7 x 38.5 cm</p>',
+                     showMoreDescription: '<h5>Signature</h5><p>Signed on verso<h5>Provenance</h5><p>Studo of artist<p><h5>About the art work</h5><p>ng essentially unchanged. It was popularised in the</p>',
+                     showTitle: 'show 4',
                   }
                ]
             },

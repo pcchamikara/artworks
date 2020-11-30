@@ -18,7 +18,7 @@ export default function Header() {
        <Logo/>
          <ul className="navbar-nav d-flex flex-row">
             <li className="nav-item  ml-2 mr-2">
-                <NavLink exact={true} activeClassName='active'  to="/" className="nav-link">Atrists</NavLink >
+                <NavLink exact={true} activeClassName='active'  to="/" className="nav-link">Artists</NavLink >
               </li>
               <li className="nav-item ml-2 mr-2">
                 <NavLink  to="/albums" className="nav-link">Albums</NavLink >

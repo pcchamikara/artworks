@@ -15,13 +15,13 @@ export default function Artists() {
         <div className="row bg-dark p-2">
             
             {AtristsData.map(({ artistName, slug, artistId, artistImage, artworks }) => (
-            <div key={artistId} className="art_block col-sm-6 col-md-4 mb-4 p-2" >
+            <div key={artistId} className="art_block col-sm-6 col-md-4 mb-3 p-2" >
                 <Link to={`/artist/${slug}`}>
 
                 <div className="card bg-dark text-white">
                     <div className="at_img" style={{backgroundImage: `url(${artistImage})`}}/>
                     <div className="card-body">
-                    <h5 className="card-title text-uppercase">{artistName}</h5>
+                    <h6 className="card-title text-uppercase">{artistName}</h6>
                     <small className="text-muted">{artworks} Artworks</small>
                     </div>
                 </div> 
