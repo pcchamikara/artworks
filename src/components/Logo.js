@@ -1,8 +1,9 @@
 import React from 'react'
-import LogoImg from '../logo_full.svg';
+/*import LogoImg from '/images/logo_full.svg';*/
+import logo from './logo.svg';
 
 export default function Logo() {
     return (
-         <img src={LogoImg} alt="Logo" />
+        <img src={logo} className="App-logo" alt="logo" />
     )
 }

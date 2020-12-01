@@ -1,27 +1,30 @@
 import React from 'react'
-import AlbumsData from "../AlbumsData";
+import ShowsData from "../ShowsData";
+import { Link , useRouteMatch } from "react-router-dom";
 import { useParams } from "react-router";
 import SubHeader from '../components/SubHeader';
 import { BsChevronUp } from 'react-icons/bs';
 
-export default function AlbumArt() {
-    const { albumId } = useParams();
-    const artItem =  AlbumsData.find(({ slug }) => slug === albumId).arts.find(({artId}) => artId === 1);
- 
+export default function Shows() {
+    const { showAId } = useParams();
+    
+    let { path, url } = useRouteMatch();
+    const ShowsItem = ShowsData.find(({ slug }) => slug === showAId);
+    console.log(ShowsItem);
+
     return (
         <div className="col-12">
             <SubHeader/>
         <div className="row bg-dark p-2 justify-content-center align-items-center">
             <div className="ko-art-weapper d-flex flex-column justify-content-center align-items-center">
                 <div className="ko-art-img">
-                    <img src={artItem.artImg} width="100%" height="auto"/>
+                    <img src={ShowsItem.showImage} width="100%" height="auto"/>
                 </div>
                 <div className="ko-art-description">
 
 
-                    <h3 className='ko-art-title'>{artItem.artTitle}</h3>    
-                    <div dangerouslySetInnerHTML={ {__html: artItem.artDescription} } />
-                    <div dangerouslySetInnerHTML={ {__html: artItem.artMoreDescription} } />
+                    <h3 className='ko-art-title'>{ShowsItem.showName}</h3>    
+                    <div dangerouslySetInnerHTML={ {__html: ShowsItem.showDescription} } />
                     <span class="ko-read-more"><BsChevronUp/></span>
                     
                 </div>
